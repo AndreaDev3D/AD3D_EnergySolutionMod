@@ -11,3 +11,4 @@ To install, you need **BepInEx** and **Nautilus**.
 
 ## ToDo:
 - Add new energy generator models.
+- Improve depth scalar
